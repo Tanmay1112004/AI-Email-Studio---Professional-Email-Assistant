@@ -335,10 +335,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  <strong>Built with ❤️ for professionals who value their time</strong><br>
-  © 2024 AI Email Studio. All rights reserved.
-</p>
-
-<p align="center">
   <a href="#-table-of-contents">Back to Top</a>
 </p>

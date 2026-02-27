@@ -119,7 +119,7 @@
 
 #### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ai-email-studio.git
+git clone https://github.com/Tanmay112004/ai-email-studio.git
 cd ai-email-studio
 ```
 
